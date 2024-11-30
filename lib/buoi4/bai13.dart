@@ -185,7 +185,7 @@ class ProfileCard extends StatelessWidget {
               CircleAvatar(
                 radius: 50, // Avatar size
                 backgroundImage: NetworkImage(
-                  'https://scontent.fsgn3-1.fna.fbcdn.net/v/t39.30808-6/433239190_1160468785386481_5505871094449710993_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeE2rOhyurb3qFzD439GjbKNXk8fVkkVchBeTx9WSRVyEG9-j9SWC18tvM8PPFweB5c6CBtNajXNN2YFg1t9TOaI&_nc_ohc=ezWVhUQnwLkQ7kNvgHBWutS&_nc_zt=23&_nc_ht=scontent.fsgn3-1.fna&_nc_gid=AM1NfTUgdSDG-RkyUsoTubX&oh=00_AYAQ_Nx0EeiWBO8ZEhSwkGIRpPGR4l8ie3CFKw1rbksuyw&oe=675082AE',
+                  'https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/448670974_1929092200895008_9134633905404822321_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=z7XgYZXfVOkQ7kNvgHckneF&_nc_zt=23&_nc_ht=scontent.fsgn5-5.fna&_nc_gid=AnzjwAi4lPc8xTYp5UKibyt&oh=00_AYCxhJ3jotadqpeqnu2cIT5JsTrDAT3sd4HWT5R9iF74dA&oe=6750F691',
                 ), // Avatar image from URL
               ),
               SizedBox(height: 16), // Space between image and info
@@ -200,11 +200,11 @@ class ProfileCard extends StatelessWidget {
                     ),
                   ),
                   SizedBox(height: 8),
-                  Text('Đặng Khánh Duy'),
+                  Text('Hồ Nhật Quang'),
                   SizedBox(height: 8),
                   Text('21DTHC1'),
                   SizedBox(height: 8),
-                  Text('duydk4215@gmail.com'),
+                  Text('honhatquang890@gmail.com'),
                 ],
               ),
             ],
